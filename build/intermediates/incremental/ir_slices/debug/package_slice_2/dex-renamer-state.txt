@@ -1,0 +1,4 @@
+#Mon Jul 16 10:28:40 JST 2018
+base.0=D\:\\Users\\Soya\\Documents\\sceneform-android-sdk-1.0.0\\NyARApplication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

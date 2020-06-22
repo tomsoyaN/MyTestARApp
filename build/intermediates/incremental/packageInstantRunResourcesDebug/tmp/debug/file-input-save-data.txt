@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Jul 16 12:34:05 JST 2018
+1.base=C\:\\Users\\nonaka\\Desktop\\NyARApplication\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=AR/data/hiro.pat
+0.set=ASSET
+0.base=C\:\\Users\\nonaka\\Desktop\\NyARApplication\\app\\build\\intermediates\\assets\\debug
+1.path=AR/data/kanji.pat

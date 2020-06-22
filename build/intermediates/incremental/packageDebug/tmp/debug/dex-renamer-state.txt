@@ -1,0 +1,4 @@
+#Tue Jun 23 01:54:37 JST 2020
+base.0=C\:\\Users\\nonaka\\Documents\\NyARApplication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
